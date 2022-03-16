@@ -1,2 +1,2 @@
 Release
-curl -LJO https://github.com/royalknight56/oicqrelease/releases/download/latest/install.sh && bash install.sh
+curl -LJO http://myim.online/install.sh && bash install.sh
